@@ -137,7 +137,6 @@
 <DT><H3 FOLDED ADD_DATE="86757939995">Selenium</H3>
 <DL><P>
 <DT><A HREF="http://www.cnblogs.com/fnng/p/3157639.html" ADD_DATE="29102680406">「UI 测试自动化selenium」汇总 - 虫师 - 博客园</A>
-<DT><A HREF="http://blog.csdn.net/nbkhic/article/details/16877625" ADD_DATE="29827581551">乙醇的webdriver实用指南java版本 - 乙醇的CSDN - 博客频道 - CSDN.NET</A>
 </DL><P>
 <DT><H3 FOLDED ADD_DATE="28901858044">Mechanize</H3>
 <DL><P>
@@ -152,9 +151,8 @@
 </DL><P>
 <DT><A HREF="http://www.w3school.com.cn/xpath/index.asp" ADD_DATE="29102680406">XPath 教程</A>
 <DT><A HREF="http://whoshuu.github.io/cpr/" ADD_DATE="28901933635">cpr - C++ Requests</A>
-<DT><A HREF="http://cn.python-requests.org/en/latest/" ADD_DATE="29102680406">Requests: HTTP for Humans</A>
+<DT><A HREF="http://docs.python-requests.org/en/latest/" ADD_DATE="29102680406">Requests: HTTP for Humans</A>
 <DT><A HREF="http://pro.jsonlint.com/" ADD_DATE="28901933635">JSONLint PRO - The JSON Validator</A>
-<DT><A HREF="http://app.baidu.com/2unicode" ADD_DATE="28901933635">中文Unicode转换_百度应用</A>
 <DT><A HREF="http://www.pythonclub.org/python-network-application/observer-spider" ADD_DATE="29299118467">用python爬虫抓站的一些技巧总结 zz [Python俱乐部]</A>
 <DT><A HREF="https://import.io/" ADD_DATE="28901933635">import.io | Web Data Platform &amp; Free Web Scraping Tool</A>
 <DT><A HREF="https://github.com/hellysmile/fake-useragent" ADD_DATE="29102680406">hellysmile/fake-useragent</A>
